@@ -14,7 +14,18 @@ exchange-rate theory a bit more digestible."
 
 Start by downloading [data/bigmac.csv](https://github.com/cmcneile/powerBI_lab/blob/main/data/bigmac.csv)
 
-The data set
+The top of the data set looks like:
 
 ![Big Mac data set](https://raw.githubusercontent.com/cmcneile/powerBI_lab/refs/heads/main/pictures/bigmac.png)
+
+Create a Power BI report that includes
+
+*  Create a card to show the mean dollar price of the big Mac
+*  Create a table of the countries
+*  Plot the countries on a map.
+*  Create a text label "Big Mac prices around the world".
+
+
+
+
 
