@@ -10,4 +10,8 @@
 
 
 
-## Resource for Power BI
+## Resources for Power BI
+
+* Main page on [Power BI](https://www.microsoft.com/en-us/power-platform/products/power-bi)
+* A collection of [example files](https://github.com/iBalajiShanmugam/Powerbi?tab=readme-ov-file) that can be loaded into Power BI.
+
