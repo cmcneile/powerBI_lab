@@ -27,13 +27,16 @@ Create a Power BI report that includes
 *  Plot the countries on a map.
 *  Create a text label "Big Mac prices around the world".
 
-See this screencast of building a very basic Power BI report.
+See this screen-cast of building a very basic Power BI report.
 [Basic report](https://youtu.be/1YM2J3Y6EBQ)
 
 The report should look something like
 ![Simple Report](https://github.com/cmcneile/powerBI_lab/blob/main/pictures/basicReport.png?raw=true)
 
 ### More advanced questions
+
+* The default Power BI loads the bigmac.csv and sums the numerical data.  If this was not done, then it would be useful to plot **dollar_price** as a function of **date** for a country such as Britain.
+* It would be useful to have a table of the countries with the top 5 values of **dollar_price**. (This probably needs a DAX expression.)
 
 
 

@@ -1,4 +1,4 @@
-# Exercises in using power BI
+# Exercises about using Power BI
 
 ## Introduction
 
