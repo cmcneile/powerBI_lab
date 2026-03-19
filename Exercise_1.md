@@ -28,7 +28,7 @@ Create a Power BI report that includes
 *  Create a text label "Big Mac prices around the world".
 
 See this screencast of building a very basic Power BI report.
-(Basic report)[https://youtu.be/1YM2J3Y6EBQ]
+[Basic report](https://youtu.be/1YM2J3Y6EBQ)
 
 The report should look something like
 ![Simple Report](https://github.com/cmcneile/powerBI_lab/blob/main/pictures/basicReport.png?raw=true)
