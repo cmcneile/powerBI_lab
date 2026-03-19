@@ -18,14 +18,22 @@ The top of the data set looks like:
 
 ![Big Mac data set](https://raw.githubusercontent.com/cmcneile/powerBI_lab/refs/heads/main/pictures/bigmac.png)
 
+### Basic questions
+
 Create a Power BI report that includes
 
-*  Create a card to show the mean dollar price of the big Mac
-*  Create a table of the countries
+*  Create a card to show the mean dollar price of a big Mac.
+*  Create a table of the countries.
 *  Plot the countries on a map.
 *  Create a text label "Big Mac prices around the world".
 
+See this screencast of building a very basic Power BI report.
+(Basic report)[https://youtu.be/1YM2J3Y6EBQ]
 
+The report should look something like
+![Simple Report](https://github.com/cmcneile/powerBI_lab/blob/main/pictures/basicReport.png?raw=true)
+
+### More advanced questions
 
 
 
